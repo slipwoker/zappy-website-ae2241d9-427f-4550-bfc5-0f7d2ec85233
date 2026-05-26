@@ -3450,7 +3450,7 @@ We'd love to welcome your family to Ceretha Legacy Academy. Our doors are open �
 
 
 
-Ceretha Legacy Academy
+Haines City, FL, 33844, US
 
 
 
@@ -3518,6 +3518,15 @@ Ceretha Legacy Academy is a faith-led institution dedicated to nurturing the who
 - cerethalegacyacademy@atomicmail.io
 - [business_phone]
 - Haines City, FL, 33844, US
+
+### שעות פעילות
+- יום שני: 10:00 - 14:00
+- יום שלישי: 10:00 - 14:00
+- יום רביעי: 10:00 - 14:00
+- יום חמישי: 10:00 - 14:00
+- יום שישי: 10:00 - 14:00
+- יום שבת: סגור
+- יום ראשון: סגור
 
 ### Connect With Us
 
