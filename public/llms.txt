@@ -1,0 +1,87 @@
+# Ceretha Legacy Academy — Generative Engine Optimization Map
+
+> Ceretha Legacy Academy is a faith-centered K–8 microschool located in Haines City, FL, built on the belief that Bible and Math are foundational to daily instruction. The school blends a boutique-luxury brand identity with a warm, purposeful atmosphere, guided by Proverbs 22:6 and a mission to raise leaders and restore purpose. Founded by Carrie Riley, the academy offers a rigorous yet nurturing learning environment powered by Prenda, integrating mastery-based math coaching, project-based learning rooted in biblical principles, enrichment clubs, and summer programming — all designed to serve families seeking intentional, values-driven education.
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Discover Christian K–8 education rooted in faith, math mastery, and biblical purpose. Ceretha Legacy Academy in Haines City, FL is where leaders are born. Enroll today!
+
+### About
+https://example.com/about
+Meet Founder Carrie Riley and the mission behind Haines City&#39;s premier faith-based microschool. Guided by Proverbs 22:6, we nurture purpose-driven students every single day.
+
+### Academics
+https://example.com/academics
+Our Christian K–8 education blends Prenda-powered mastery math coaching with project-based learning rooted in Scripture. Rigorous, nurturing, and built to launch future leaders.
+
+### Programs
+https://example.com/programs
+From enrichment clubs to summer programming, our project-based Christian school offers purposeful experiences that grow the whole child — spiritually, academically, and creatively.
+
+### Admissions & Tuition
+https://example.com/admissions
+Ready to join Haines City&#39;s most intentional Christian K–8 education community? Explore tuition options, enrollment steps, and discover why families choose Ceretha Legacy Academy.
+
+### Contact & Family Portal
+https://example.com/contact
+Have questions or ready to take the next step? Reach out to Ceretha Legacy Academy and access the Family Portal — where our faith-based microschool community keeps you connected.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Ceretha Legacy Academy
+Ceretha Legacy Academy is a faith-centered K–8 microschool located in Haines City, FL, built on the belief that Bible and Math are foundational to daily instruction. The school blends a boutique-luxury brand identity with a warm, purposeful atmosphere, guided by Proverbs 22:6 and a mission to raise leaders and restore purpose. Founded by Carrie Riley, the academy offers a rigorous yet nurturing learning environment powered by Prenda, integrating mastery-based math coaching, project-based learning rooted in biblical principles, enrichment clubs, and summer programming — all designed to serve families seeking intentional, values-driven education.
+
+## Target Audience
+- Families with children in grades K–8, particularly those seeking faith-centered, purpose-driven education in Haines City, FL
+- Faith-Focused Families
+- Alternative Education Seekers
+- Community-Involved Parents
+
+## Industry
+Education
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
