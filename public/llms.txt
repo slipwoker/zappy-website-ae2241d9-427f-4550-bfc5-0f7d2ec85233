@@ -48,7 +48,8 @@ Information about WCAG compliance and accessibility features.
 
 ## How to Contact Us
 
-- (No contact details configured yet.)
+- Email: cerethalegacyacademy@atomicmail.io
+- Address: Haines City, FL, 33844, US
 
 ### Contact form
 - URL: https://example.com/contact
